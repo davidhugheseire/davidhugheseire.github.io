@@ -5,8 +5,8 @@ My [humble collection](https://boardgamegeek.com/collection/user/bbol24?own=1&su
 
 <p align="center">
 <iframe
-  src="https://dcl.dev.looker.com/embed/looks/882"
-  width="400"
-  height="250"
+  src="https://lookerv64.dev.looker.com/embed/dashboards/143"
+  width="800"
+  height="700"
    frameborder='0'>
 </iframe></p>
